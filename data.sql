@@ -15,7 +15,7 @@ INSERT INTO Albums VALUES (5, 'A Natural Disaster', 2003);
 INSERT INTO Albums VALUES (6, 'Discovery', 2001);
 INSERT INTO Albums VALUES (7, 'Ultimate Darkness', 2002);
 INSERT INTO Albums VALUES (8, 'Memory Shell', 2015);
-INSERT INTO Albums VALUES (9, 'Reload', 1997);
+INSERT INTO Albums VALUES (9, 'Reload', 2018);
 
 INSERT INTO Genres VALUES (1, 'Rock');
 INSERT INTO Genres VALUES (2, 'Pop');
